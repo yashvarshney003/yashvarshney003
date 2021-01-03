@@ -3,6 +3,10 @@
 <a href="https://www.linkedin.com/in/yash-varshney-/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+
+<a href="mailto:yash.varshney003@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <br />
 
 ### About Me 🚀
@@ -29,4 +33,4 @@
  4. In 2020 I started contributing in open source projects.<br>
               1. [Robotics Library](https://github.com/AtsushiSakai/PythonRobotics)<br>
               2. [EQ-Equation Website](https://github.com/girlscript/EQEquation-Website)<br>
- 5. I am currently learning advance DSA and Machine learning .
+ 5. I am currently learning advance DSA, Machine learning and enhancing my web dev shills.
