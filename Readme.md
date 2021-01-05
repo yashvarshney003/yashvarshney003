@@ -25,6 +25,7 @@
   * PID and control system
   * Aerodynamics (Drone)
   * Algorithm Design<br>
+  This is private repo.
   [Project link](https://github.com/yashvarshney003/Eyantra-Rescue-and-survey)
  3. I also love doing competetive programming.<br>
               1. [Hackerrank Profile](https://www.hackerrank.com/yash_varshney003)<br>
