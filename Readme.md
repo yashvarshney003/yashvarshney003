@@ -34,4 +34,4 @@
  4. In 2020 I started contributing in open source projects.<br>
               1. [Robotics Library](https://github.com/AtsushiSakai/PythonRobotics)<br>
               2. [EQ-Equation Website](https://github.com/girlscript/EQEquation-Website)<br>
- 5. I am currently learning advance DSA, Machine learning and enhancing my Web Dev skills.
+ 5. I am currently learning advance DSA, Machine learning and embedded system.
