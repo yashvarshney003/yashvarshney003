@@ -19,7 +19,7 @@
  [Project link](https://github.com/yashvarshney003/Real-Time-Passenger-Counting-System-)
  
 2. E-yantra Robotics Competition(Eyrc)<br>
- In 2019-2020 I particpated in Eyrc. We have been alloted a theme <b>Survey and Rescue<b>. Concepts and tech include
+ In 2019-2020 I particpated in Eyrc. We have been alloted a theme <b>Survey and Rescue(Estimated position 31 among 355 teams )<b>. Concepts and tech include
   * ROS and Gazebo
   * Image Processing
   * PID and control system
